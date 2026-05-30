@@ -3,7 +3,7 @@
 **Independent AI Researcher | LLM Memory Architectures | Open Source Contributor**
 
 ## Research
-- 📄 DSPM (Dynamic Semantic Patch Memory) — submitted IEEE SMC 2026
+- 📄 DSPM (Dynamic Semantic Patch Memory) - Targeting IEEE
 - 📄 SSPM (Sparse Semantic Patch Memory) — Zenodo preprint
 - 🔬 Contributor @ Castorini Research Group, University of Waterloo
 
