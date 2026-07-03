@@ -6,9 +6,9 @@
 ## Research
 Building novel memory architectures for LLMs — independently, without lab resources.
 
-- 📄 **DSPM** (Dynamic Semantic Patch Memory) — 82.4% token reduction, 94.2% compression-retention ratio across 7 technical dialogue domains, statistically validated (Wilcoxon signed-rank, p = 0.0431) · [Zenodo preprint](https://zenodo.org/records/19438636) · Accepted into the Sarvam AI Startup Program
-- 📄 **SSPM** (Streaming Sparse Prompt Modeling) — real-time evaluation and constraint-preservation methodology validated on the LoCoMo benchmark · [Zenodo preprint](https://zenodo.org/records/19033643)
-- 🖥️ **Vyom OS** (ALISA — AI-Integrated OS Architecture) — systems-level architecture spanning bootloader, paging, and priority scheduling · Presented, under review, IEEE-affiliated ICSEAI 2026
+- **DSPM** (Dynamic Semantic Patch Memory) — 82.4% token reduction, 94.2% compression-retention ratio across 7 technical dialogue domains, statistically validated (Wilcoxon signed-rank, p = 0.0431) · [Zenodo preprint](https://zenodo.org/records/19438636) · Accepted into the Sarvam AI Startup Program
+- **SSPM** (Streaming Sparse Prompt Modeling) — real-time evaluation and constraint-preservation methodology validated on the LoCoMo benchmark · [Zenodo preprint](https://zenodo.org/records/19033643)
+- **Vyom OS** (ALISA — AI-Integrated OS Architecture) — systems-level architecture spanning bootloader, paging, and priority scheduling · Presented, under review, IEEE-affiliated ICSEAI 2026
 
 ---
 
