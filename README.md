@@ -101,8 +101,8 @@ Building novel memory architectures for LLMs — independently, without lab reso
 
 ## Links
 
-- **Portfolio:** https://dhruv-d-bento-portfolio.vercel.app/
-- **LinkedIn:** https://linkedin.com/in/dhruvdubey1311
+- **Portfolio:** [https://dhruv-dubey-bento-portfolio.vercel.app/](https://dhruv-dubey-bento-portfolio.vercel.app/)
+- **LinkedIn:** [https://linkedin.com/in/dhruvdubey](https://www.linkedin.com/in/d-dubeyofficialwork/)
 - **LeetCode:** https://leetcode.com/u/Dhruv_1311
 - **ORCID:** https://orcid.org/0009-0004-5510-9000
 - **Email:** dhruvdubey1311@gmail.com
