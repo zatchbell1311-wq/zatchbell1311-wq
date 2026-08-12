@@ -1,10 +1,7 @@
 # Dhruv Dubey
-**Independent AI Researcher · LLM Memory Architectures · Open Source Contributor**
-
----
+Independent AI Researcher · LLM Memory Architectures · Open Source Contributor
 
 ## Research
-
 Building novel memory architectures for LLMs — independently, without lab resources.
 
 ### DSPM (Dynamic Semantic Patch Memory)
@@ -26,21 +23,25 @@ Building novel memory architectures for LLMs — independently, without lab reso
   - Priority Scheduling
 - Presented, under review, IEEE-affiliated ICSEAI 2026
 
----
-
 ## Open Source
 
 ### Yale `pie` (pie-project/pie)
-- 6 merged PRs:
+- 4 merged PRs:
   - #382 — stderr forward-port
   - #383 — sharded GGUF loading
   - #391 — E2E test coverage for raw-completion
   - #407 — async system test coverage
-  - #460 — CUDA graph key-collision fix
-  - #462 — Vulkan/Windows Context::fork() corruption fix
+- Open PRs: #460 (CUDA graph key-collision fix), #462 (Vulkan/Windows Context::fork() corruption fix)
 - Issue #418
   - Isolated a Vulkan-backend memory-corruption defect via clean baseline comparison
   - Documented workaround
+
+### UW VibeServe (uw-syfi/vibesys)
+- 3 merged PRs, supervised by Vic Shihang Li (UW SyFI):
+  - #54 — default queue reference, accuracy checker, and benchmark harness
+  - #241 — deep-agent graph caching (eliminated full graph rebuild per invocation)
+  - #312 — CI gates for format, lint, and coverage in development guide
+- Invited into core UI team (August 2026)
 
 ### Point Cloud Library (PCL)
 - Merged PR #6398
@@ -59,16 +60,10 @@ Building novel memory architectures for LLMs — independently, without lab reso
   - Ubuntu 24.04
   - Java 21
 
-### UW VibeServe
-- PR #57
-- Reviewed by Prof. Baris Kasikci
-
----
-
 ## Stack
-
 - Python
 - C/C++
+- TypeScript
 - PyTorch
 - OS Kernels & Memory Management
 - LLM Inference Pipelines
@@ -78,31 +73,17 @@ Building novel memory architectures for LLMs — independently, without lab reso
 - Groq API
 - Gemini API
 
----
-
 ## Achievements
-
 - Solved 300+ LeetCode problems
-  - Arrays
-  - Linked Lists
-  - STL
-  - Dynamic Programming
-  - Graphs
-  - Trees
-
+  - Arrays, Linked Lists, STL, Dynamic Programming, Graphs, Trees
 - 331 combined Zenodo views
 - 186 downloads across two published preprints
-
 - NVIDIA GTC 2025 attendee
-
 - Solo participant, Meta PyTorch Hackathon × Scaler
 
----
-
 ## Links
-
-- **Portfolio:** [https://dhruv-dubey-bento-portfolio.vercel.app/](https://dhruv-dubey-bento-portfolio.vercel.app/)
-- **LinkedIn:** [https://linkedin.com/in/dhruvdubey](https://www.linkedin.com/in/d-dubeyofficialwork/)
-- **LeetCode:** https://leetcode.com/u/Dhruv_1311
-- **ORCID:** https://orcid.org/0009-0004-5510-9000
-- **Email:** dhruvdubey1311@gmail.com
+- Portfolio: https://dhruv-dubey-bento-portfolio.vercel.app/
+- LinkedIn: https://linkedin.com/in/dhruvdubey
+- LeetCode: https://leetcode.com/u/Dhruv_1311
+- ORCID: https://orcid.org/0009-0004-5510-9000
+- Email: dhruvdubey1311@gmail.com
